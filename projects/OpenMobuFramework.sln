@@ -6,6 +6,9 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenMobuCore", "OpenMobuCore.vcxproj", "{806C8050-6E0B-48F4-870F-C1A2834656C1}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenMobuUnitTests", "OpenMobuUnitTests.vcxproj", "{46A71484-3C88-40BC-A847-A7B8B5AC00B6}"
+	ProjectSection(ProjectDependencies) = postProject
+		{806C8050-6E0B-48F4-870F-C1A2834656C1} = {806C8050-6E0B-48F4-870F-C1A2834656C1}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
