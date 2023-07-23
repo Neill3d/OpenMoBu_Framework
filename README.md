@@ -1,4 +1,4 @@
-OpenGL CMake Skeleton [![Build Status](https://travis-ci.org/ArthurSonzogni/OpenGL_CMake_Skeleton.svg?branch=master)](https://travis-ci.org/ArthurSonzogni/OpenGL_CMake_Skeleton)
+OpenMobu Framework  ![Build Status](https://github.com/Neill3d/OpenMoBu_Framework/actions/workflows/msbuild.yml/badge.svg)
 =======================
 
 A ready to use C++11 CMake OpenGL skeleton using **GLFW**, **Glew** and **glm**. (use git submodules)
